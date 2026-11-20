@@ -1,0 +1,9 @@
+{
+    "gemini_api_key": "",
+    "os_system": "windows",
+    "camera_index": 0,
+    "morning_brief_enabled": true,
+    "wake_word_enabled": true,
+    "input_device": "",
+    "output_device": ""
+}
